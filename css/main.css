@@ -1,0 +1,103 @@
+.grass {
+  background-color: #8CB27C;
+  height: 499px;
+  width: 1001px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+.line-grass-square {
+  background-color: none;
+  border: 5px solid #FFFFFF;
+  height: 467px;
+  width: 967px;
+  display: block;
+  margin: auto;
+  position: relative;
+  bottom: 489px;
+}
+
+.line-grass-square-rigth {
+  background-color: none;
+  border: 5px solid #FFFFFF;
+  border-left: none;
+  height: 190px;
+  width: 98px;
+  position: absolute;
+  margin: auto;
+  top: 150px;
+  left: 190px;
+}
+
+.line-grass-square-left {
+  background-color: none;
+  border: 5px solid #FFFFFF;
+  border-right: none;
+  height: 190px;
+  width: 98px;
+  position: absolute;
+  margin: auto;
+  top: 150px;
+  right: 190px;
+}
+
+.circle {
+  background-color: none;
+  border: 5px solid #FFFFFF;
+  border-radius: 50%;
+  height: 202px;
+  width: 202px;
+  position: absolute;
+  margin: auto;
+  top: 150px;
+  right: 190px;
+  left: 190px;
+}
+
+.ball-center img{
+  height: 27px;
+  width: 27px;
+  position: absolute;
+  margin: auto;
+  top: 90px;
+  right: 190px;
+  left: 190px;
+}
+
+.ball-rigth img{
+  height: 27px;
+  width: 27px;
+  position: absolute;
+  margin: auto;
+  top: 220px;
+  right: 190px;
+  left: 910px;
+  bottom: 150px;
+}
+
+.ball-left img{
+  height: 27px;
+  width: 27px;
+  position: absolute;
+  margin: auto;
+  top: 150px;
+  right: 910px;
+  left: 135px;
+
+}
+
+/*.ball-one {
+  background-color: #FBFBFB;
+
+  border-radius: 50%;
+  box-shadow: 1px -1px 1px gray;
+  height: 27px;
+  width: 27px;
+  position: absolute;
+  margin: auto;
+  top: 150px;
+  right: 190px;
+  left: 190px;
+}*/
